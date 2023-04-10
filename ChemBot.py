@@ -166,5 +166,5 @@ async def molmass(ctx, formula: str):
 
 # Start the bot using the token (Replace with your bot token)
 
-bot.run("MTA5MTAzOTgyMTAxNjg1ODY1NA.G98pbL.47n6yQZvVYSuo3wf83fp2aQ0wfzywwrKR0XFPs")
+bot.run("Tokem")
 
